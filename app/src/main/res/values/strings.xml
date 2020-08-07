@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CricTech India</string>
+    <string name="title_activity_fixtures_world">FixturesWorld</string>
+    <string name="title_activity_post_view">PostViewActivity</string>
+    <string name="title_activity_webview">Webview</string>
+    <string name="title_activity_web_list">WebList</string>
+    <string name="title_activity_reviews">Reviews</string>
+    <string name="title_activity_fixture">Fixture</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+</resources>
